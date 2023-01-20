@@ -1,0 +1,18 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.flex-container {
+    display: flex;
+    background-color: #1a44cc;
+    flex-wrap: wrap;
+}
+  
+.flex-container > div {
+    background-color: #38a4d6;
+    margin: 10px;
+    padding: 22px;
+    font-size: 20px;
+    min-width: 28%;
+}

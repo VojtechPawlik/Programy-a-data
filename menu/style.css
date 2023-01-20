@@ -1,0 +1,38 @@
+ .topnav {
+   
+    overflow: hidden;
+  }
+  .topnav a {
+    float: left;
+    color: #1a44cc;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: #1a44cc;
+    color: #00fff2;
+  }
+  .topnav a.active {
+    background-color: #1a44cc;
+    color: #00fff2;
+  }
+  h2 {
+    color: #00fff2;
+    background-color: #1a44cc;
+    text-align: center;
+  }
+  * {
+    background-color: #8bbdff;
+  }
+  h3 {
+    color: #1a44cc;
+    text-align: center;
+  }
+  ul {
+    text-align: center;
+  }
+  body {
+    font-family: "Kanit", sans-serif;
+  }
